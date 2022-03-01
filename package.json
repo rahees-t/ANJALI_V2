@@ -1,7 +1,7 @@
 {
-  "name": "ANJALI_V2",
+  "name": "🤹🏻‍♀️🎩𝄠࿑᥅ꪖꫝꫀꫀᦓ❥࿑𝄠🎩🤹🏻‍♂️",
   "version": "7.3.6",
-  "description": "ANJALI_V2 is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
+  "description": "𝐖𝐡𝐞𝐧 𝐭𝐡𝐞 𝐬𝐧𝐨𝐰𝐬 𝐟𝐚𝐥𝐥 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐰𝐡𝐢𝐭𝐞 𝐰𝐢𝐧𝐝𝐬 𝐛𝐥𝐨𝐰, 𝐭𝐡𝐞 𝐥𝐨𝐧𝐞 𝐰𝐨𝐥𝐟 𝐝𝐢𝐞𝐬 𝐛𝐮𝐭 𝐭𝐡𝐞 𝐩𝐚𝐜𝐤 𝐬𝐮𝐫𝐯𝐢𝐯𝐞𝐬.",
   "main": "./Maalutty_V2/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
@@ -17,8 +17,8 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "TOXIDE-SER-444",
-  "developer": "@nijin-husni / @TOXIDE-SER-444",
+  "author": "᥅ꪖꫝꫀꫀᦓ",
+  "developer": "@rahees",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/TOXIDE-SER-444/ANJALI_V2/issues"
